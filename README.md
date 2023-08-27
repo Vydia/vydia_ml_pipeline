@@ -1,2 +1,2 @@
 # vydia_ml_pipeline
-Machine learning pipeline for Lydia.
+Machine learning pipeline for Vydia.
